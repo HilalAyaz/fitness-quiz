@@ -1,0 +1,38 @@
+/* Add styling for the Question component here */
+
+div {
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    color: #333;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    background-color: rgba(255, 255, 255, 0.3);    
+    cursor: pointer;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+  }
+  
+  li:hover {
+    background-color: rgba(255, 255, 255, 0.7);
+  }
+ /* Add styling for the Question component here */
+
+.question-container {
+  background-color: rgba(255, 255, 255, 0.4); /* Adjust the last value (alpha) for transparency */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.question-container li {
+  background-color: rgba(255, 255, 255, 0.3); /* Adjust the last value (alpha) for transparency */
+}

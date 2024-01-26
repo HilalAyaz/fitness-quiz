@@ -1,0 +1,16 @@
+{
+    "fitnessPackages": {
+      "Weight loss": {
+        "activities": ["Cardiovascular exercises", "High-intensity interval training (HIIT)", "Balanced diet with caloric deficit"],
+        "additionalInfo": "Tip: Consult with a nutritionist for a personalized meal plan"
+      },
+      "Muscle gain": {
+        "activities": ["Strength training", "Compound exercises (squats, deadlifts, bench press)", "Protein-rich diet with caloric surplus"],
+        "additionalInfo": "Tip: Ensure adequate rest and recovery"
+      },
+      "General fitness": {
+        "activities": ["Combination of cardio and strength training", "Variety in workouts for overall fitness", "Balanced diet with emphasis on nutrient-dense foods", "Incorporate flexibility exercises for mobility"]
+      }
+    }
+  }
+  

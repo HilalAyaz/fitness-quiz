@@ -1,0 +1,42 @@
+.results-container {
+  background-color: rgba(255, 255, 255, 0.6); /* Adjust the last value (alpha) for transparency */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ddd; /* Add border for a smooth appearance */
+}
+
+.results-container h2 {
+  color: #333;
+}
+
+.results-container h3 {
+  color: #333;
+}
+
+.results-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.results-container li {
+  background-color: rgba(255, 255, 255, 0.8); /* Adjust the last value (alpha) for transparency */
+  padding: 10px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  cursor: default;  
+  border: 1px solid #ccc; /* Add border for a smooth appearance */
+}
+
+.results-container button {
+  background-color: rgba(76, 175, 80); /* Adjust the last value (alpha) for transparency */
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.results-container button:hover {
+  background-color: rgba(69, 160, 73, 0.4); /* Adjust the last value (alpha) for transparency */
+}

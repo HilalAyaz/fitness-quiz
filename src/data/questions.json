@@ -1,0 +1,25 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is your primary fitness goal?",
+        "options": ["Weight loss", "Muscle gain", "General fitness"]
+      },
+      {
+        "id": 2,
+        "question": "Which type of exercise do you enjoy the most?",
+        "options": ["Cardiovascular", "Strength training", "Flexibility and relaxation"]
+      },
+      {
+        "id": 3,
+        "question": "How much time can you dedicate to exercise per day?",
+        "options": ["15-30 minutes", "30-60 minutes", "More than 60 minutes"]
+      },
+      {
+        "id": 4,
+        "question": "How would you describe your current fitness level?",
+        "options": ["Beginner", "Intermediate", "Advanced"]
+      }
+    ]
+  }
+  
